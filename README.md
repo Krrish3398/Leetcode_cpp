@@ -6,6 +6,7 @@ Leetcode solved problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -15,4 +16,12 @@ Leetcode solved problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0882-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
