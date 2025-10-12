@@ -9,6 +9,7 @@ Leetcode solved problems
 | [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -37,4 +38,8 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
