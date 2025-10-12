@@ -24,4 +24,12 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
