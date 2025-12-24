@@ -8,9 +8,9 @@ public:
 
         while(size--)
         {
-            expSum += count++;
-            sum += nums[size];
+            expSum ^= count++;
+            sum = sum ^ nums[size];
         }
-        return expSum - sum;
+        return expSum ^ sum;
     }
 };
