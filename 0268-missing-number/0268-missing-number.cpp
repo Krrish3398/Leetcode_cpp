@@ -10,7 +10,6 @@ public:
         {
             expSum += count++;
             sum += nums[size];
-            cout << sum << endl;
         }
         return expSum - sum;
     }
