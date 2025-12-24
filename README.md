@@ -33,6 +33,7 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Leetcode solved problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -62,4 +64,12 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
