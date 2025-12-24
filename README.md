@@ -34,10 +34,12 @@ Leetcode solved problems
 | ------- |
 | [0050-powx-n](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Leetcode solved problems
 | ------- |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
