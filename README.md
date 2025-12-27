@@ -58,11 +58,13 @@ Leetcode solved problems
 | [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Leetcode solved problems
 | [0075-sort-colors](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
