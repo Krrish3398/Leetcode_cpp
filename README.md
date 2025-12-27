@@ -61,6 +61,7 @@ Leetcode solved problems
 | [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 ## Hash Table
 |  |
 | ------- |
