@@ -59,6 +59,7 @@ Leetcode solved problems
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0461-hamming-distance) |
 ## Hash Table
 |  |
 | ------- |
