@@ -15,6 +15,7 @@ Leetcode solved problems
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Leetcode solved problems
 | [0693-binary-number-with-alternating-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
@@ -102,4 +104,5 @@ Leetcode solved problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
