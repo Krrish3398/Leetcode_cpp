@@ -40,6 +40,7 @@ Leetcode solved problems
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -64,6 +65,7 @@ Leetcode solved problems
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0693-binary-number-with-alternating-bits) |
@@ -99,6 +101,7 @@ Leetcode solved problems
 | ------- |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
