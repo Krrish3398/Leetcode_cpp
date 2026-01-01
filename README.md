@@ -27,6 +27,7 @@ Leetcode solved problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0075-sort-colors) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Leetcode solved problems
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Leetcode solved problems
 | [0693-binary-number-with-alternating-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Leetcode solved problems
 | ------- |
 | [0067-add-binary](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0389-find-the-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
