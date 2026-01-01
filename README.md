@@ -39,6 +39,7 @@ Leetcode solved problems
 | [0231-power-of-two](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Leetcode solved problems
 | [0476-number-complement](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Krrish3398/Leetcode_cpp/tree/master/1486-xor-operation-in-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Krrish3398/Leetcode_cpp/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
